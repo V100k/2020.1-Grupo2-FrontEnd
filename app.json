@@ -1,9 +1,9 @@
 {
-  "name": "floradex",
-  "displayName": "floradex",
+  "name": "Gaiadex",
+  "displayName": "Gaiadex",
   "expo": {
-    "name": "floradex",
-    "slug": "floradex",
+    "name": "Gaiadex",
+    "slug": "Gaiadex",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
